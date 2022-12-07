@@ -5,15 +5,14 @@ Abaixo você encontrará conteúdos na área de segurança da informação, conf
 
 ## 💡 Proposta
 
-> A proposta deste guia é fornecer conteúdos para seu estudo, para guiá-lo se você estiver confuso sobre qual o próximo aprendizado, não influenciar você a seguir os 'hypes' e 'trendys' do momento. Acreditamos que com um <b>maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas.</b> E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções.
+> A proposta deste guia é fornecer conteúdos para seu estudo, acredito que com um <b>maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas.</b> E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções.
 
 ## 🗺️ Cyber Security roadmap
 
 ![Cyber Security roadmap](https://i.imgur.com/eq4uu7P.jpg)
 
 ## 🔧 Ferramentas para tradução de conteúdo
-> Muito do conteúdo desse repositório pode se encontrar em um idioma diferente do Português , desta maneira, fornecemos algumas ferramentas para que você consiga realizar a tradução do conteúdo, lembrando que o intuito desse guia é fornecer todo o conteúdo possível para que você possa se capacitar na área de Cyber Security independente do idioma a qual o material é fornecido, visto que se você possuí interesse em consumir esse material isso não será um empecilho para você continue seus estudos.
-
+> Muito do conteúdo pode se encontrar em um idioma diferente do Português , desta maneira, segue algumas ferramentas para que você consiga realizar a tradução do conteúdo.
 - [Google Translate](https://translate.google.com.br/?hl=pt-BR)
 - [Linguee](https://www.linguee.com.br/ingles-portugues/traducao/translate.html)
 - [DeepL](https://www.deepl.com/pt-BR/translator)
@@ -682,6 +681,8 @@ Abaixo você encontrará conteúdos na área de segurança da informação, conf
 - [Burp Suite](https://portswigger.net/burp) - Framework.
 - [ZAP Proxy](https://www.zaproxy.org/) - Framework.
 - [Dirsearch](https://github.com/maurosoria/dirsearch) - HTTP bruteforcing.
+- [SSL Labs](https://www.ssllabs.com/ssltest/) - Teste SSL.
+- [Tool Box](https://gf.dev/toolbox) - Verificação de Vulnerabilidade e Configuração SSL / TLS.
 - [Nmap](https://nmap.org/) - Port scanning.
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - Subdomain discovery.
 - [Amass](https://github.com/OWASP/Amass) - Subdomain discovery.
@@ -761,25 +762,6 @@ Abaixo você encontrará conteúdos na área de segurança da informação, conf
 - [RT809h](https://pt.aliexpress.com/item/32747164846.html?spm=a2g0o.productlist.0.0.25cc3923P5cVXZ&algo_pvid=4d740e28-334f-43e9-938d-aee16699cc41&algo_expid=4d740e28-334f-43e9-938d-aee16699cc41-8&btsid=0ab6f82c15912356671523042efcb7&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
 - [RTL-SDR](http://s.click.aliexpress.com/e/_dUIw0ll)
 - [Hackrf + Portapack h2](http://s.click.aliexpress.com/e/_dS0V9kf)
-
-
-## 🦉 Sites e cursos para aprender C
-
-> Cursos para aprender C em Português 
-- [Curso de C - eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4)
-- [Programação Moderna em C - Papo Binário](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE)
-- [Curso de Linguagem C - Pietro Martins](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2)
-- [Curso de Programação C Completo - Programe seu futuro](https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA)
-- [Linguagem C - De aluno para aluno](https://www.youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW)
-- [Curso de Linguagem C para Iniciantes - John Haste](https://www.youtube.com/playlist?list=PLGgRtySq3SDMLV8ee7p-rA9y032AU3zT8)
-- [Curso de Linguagem C (ANSI)](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob)
-- [Curso - Programação com a Linguagem C para iniciantes](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxHno2S-IiG9-lePyRNOO_E)
-- [Curso de Programação 3 (C Avançado)](https://www.youtube.com/playlist?list=PLxMw67OGLa0kW_TeweK2-9gXRlMLYzC1o)
-- [Curso de C - Diego Moisset](https://www.youtube.com/playlist?list=PLIygiKpYTC_6zHLTjI6cFIRZm1BCT3CuV)
-- [Curso de C e C++](https://www.youtube.com/playlist?list=PL5EmR7zuTn_bONyjFxSO4ZCE-SVVNFGkS)
-- [Curso de Programação em Linguagem C](https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R)
-- [Linguagem C - Curso de Programação Completo para Iniciantes e Profissionais](https://www.youtube.com/playlist?list=PLrqNiweLEMonijPwsHckWX7fVbgT2jS3P)
-- [Curso de Lógica e programação em C](https://www.youtube.com/playlist?list=PLtnFngjANe7EMzARU48QgecpyQdzWapoT)
 
 ## 🐴 Sites e cursos para aprender MySQL
 
@@ -996,11 +978,6 @@ Abaixo você encontrará conteúdos na área de segurança da informação, conf
 - [Redes de Computadores - TQSM](https://www.youtube.com/playlist?list=PL8lS5-l2_3ccLfD3-yu1Kw1Gw8G7CtNkS)
 - [Redes de Computadores - Canal TI](https://www.youtube.com/playlist?list=PLJR6Tybi2maQtNQElsxjUIm_d108Dd85c)
 - [Rede de Computadores na Prática](https://www.youtube.com/playlist?list=PL35Zp8zig6smwaEC0bIW8vnOYecDulS2-)
-
-> Cursos para aprender Redes de Computadores em Inglês
-- [Computer Networking Course - Network Engineering](https://www.youtube.com/watch?v=qiQR5rTSshw&ab_channel=freeCodeCamp.org)
-- [Computer Networks: Crash Course Computer Science](https://www.youtube.com/watch?v=3QhU9jd03a0&ab_channel=CrashCourse)
-- [Computer Networks - Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
 
 ## 🎓 Certificações para Cyber Security
 
